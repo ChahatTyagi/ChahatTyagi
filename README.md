@@ -71,10 +71,19 @@ My goal is simple:
 <tr>
 <td width="50%">
 
+### 🏙️ Corelaytics
 
+An AI based health monitoring system. Track Health, Provide Suggestion, Suggest Medicine & Doctor, Predict Future Risk.
 
-`React` `TypeScript` `Supabase` `PostgreSQL` `Tailwind CSS`
+**Built around**
 
+`React` `Node.js` `MongoDB`
+
+**Focus**
+
+Accurate Health Monitoring • Suggestions • Prediction  
+
+</td>
 
 
 <td width="50%">
