@@ -180,8 +180,7 @@ My GitHub achievements are displayed directly through GitHub's native profile sy
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ChahatTyagi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Shashank%20Kumar%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+   
   <a href="https://github.com/ChahatTyagi">
     <img src="https://img.shields.io/badge/GitHub-ChahatTyagi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
